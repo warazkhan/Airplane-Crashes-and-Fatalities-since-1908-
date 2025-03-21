@@ -1,6 +1,6 @@
 # ✈️ Airplane Crashes and Fatalities Analysis (1908 - Present)
 
-This project explores over a century of **airplane crash data (1908 - present)** to analyze trends in **aviation accidents, fatalities, and safety improvements**. Using **Exploratory Data Analysis (EDA)** and **data visualization**, we extract insights into the evolution of air travel safety.  
+This project explores **airplane crash data (1908 - 2008)** to analyze trends in **aviation accidents, fatalities, and safety improvements**. Using **Exploratory Data Analysis (EDA)** and **data visualization**, we extract insights into the evolution of air travel safety.  
 
 <center> <img alt="Insight logo" src="https://github.com/warazkhan/Data-Analysis-Project/blob/main/Flow%20Of%20Exploratory%20Data%20Analysis%20(EDA).gif?raw=true" align="center" hspace="10px" vspace="10px" width=60% height=100% > </center>
 
